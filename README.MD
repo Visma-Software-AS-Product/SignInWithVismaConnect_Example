@@ -1,4 +1,4 @@
-# SignIn with Visma Connect - example application
+# SignIn with Visma Connect - example application - Python Flask
 
 ## Introduction
 This small application showcases how you could implement SignIn with Visma Connect in your application.
